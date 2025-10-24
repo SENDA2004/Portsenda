@@ -1,0 +1,76 @@
+Examen
+
+Session : Principale
+
+Semestre : 1
+
+Classe(s) : 2A23-72A43
+Nombre des pages 2
+Durée : 1
+
+| Module : Programmation Orientée Objet C++
+
+| Enseignant(s) : Équipe C++
+
+| Documents autorisés : NON.
+à 13H :00
+1. Hest noter que les attributs des classes à définir ne doivent pas être publics:
+
+| Date :15/01/2025
+NB :
+
+2. Utiiserles noms des attributs fournis dans l'énoncé.
+
+3. Lutiisation du polymorphisme est obligatoire
+
+4. Applquerla syntaxe du langage C++ ensefgnée lors des séances de cours.
+
+Enoncé :
+
+On désire développer une application pour gérer les réponses à un questionnaire. .
+
+le texte et le score initialemen
+
+jus par le classement
+
+Une question est caractérisée par un intitulé (identifiant unique),
+oyé et le
+ite de
+
+Ii
+
+Une question de classement (QC) est une question caractérisée en pl
+envoyé et le classement correcte et le nombre d’élément à classer. Si le classement en F
+classement correcte sont identique, le score est égal à 2. (N.B. le classement est une S
+
+chiffres par exemple 2314).
+Une question à choix unique (QCU) est une question qui est caractérisée en plus parle Ca.
+de la réponse envoyée et le numéro de la réponse correcte. Si la réponse envoyée et la répon:
+
+correcte sont identique, le score est égal à 1.
+
+NB : Chaque classe doit implémenter une méthode permettant de calculer le score
+La classe Questionnaire est caractérisée par son identifiant unique et un ensemble de questions.
+Les questions du questionnaire doivent être des QCU ou des QC.
+
+Cette classe doit offrir les fonctionnalités suivantes :
+
+- Chercher une question donnée.
+
+- Ajouter une question de classement (QC).
+
+- Ajouter une QCU (cette méthode ne va pas être implémentée)
+Calculer le score final du questionnaire.
+Afficher toutes les questions dans le questionnaire ainsi que le score de chacune.
+Supprimer les questions de type « QCU » dont la réponse est fausse en surchargeant
+I Opérateur — dans la classe QCU.
+
+Enregistrez dans un fichier texte les informations suivantes : l'identifiant, le texte de la
+
+que la réponse ou le classement correct. En cas d'échec lors de l'ouverture
+
+question, ainsi
+éthode doit déclencher une exception.
+
+du fichier, la m
+

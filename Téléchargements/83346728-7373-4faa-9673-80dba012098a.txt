@@ -1,0 +1,31 @@
+Messenger
+@& acrobat.adobe.com
+
+Collaborate with Acrobat Reader
+Use the app to add and reply to comments
+
+=) Generative summary v
+
+Exercice 1 :(8 points)
+
+Pour tout n > 2 et x € [~1, +0], on pose
+
+fal) =
+
+r
+n(n—1)
+
+1. (a) (0.5 pt) Montrer que la suite de fonctions (f,)u>2 converge simplement sur [—1, 1].
+
+(b) (0.5 pt) Etudier la convergence uniforme de la suite de fonctions (f,),z2 sur [1.1
+
+(¢) (0.5 pt) Pour z > 1, calculer lim_f, (x)
+
+(d) (0.5 pt) Déduire le domaine de convergence simple de la suite de fonctions ( fu)n>2
+
+2.(a) (1.5 pt) Vérifier que la série numérique fu(1) est une série télescopique. Détermine sa
+
+nature et calculer sa somme.
+
+(b) (1 pt) La série numérique yr fu(—1) est-elle semi-convergente ? Justifiant vot
+
